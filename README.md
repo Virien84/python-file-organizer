@@ -34,10 +34,7 @@ This script helps you keep your directories clean and organized by automatically
 git clone https://github.com/yourusername/file-organizer.git
 ```
 
-2. Navigate to the script directory:
-```bash
-cd file-organizer
-```
+2. Copy the script in the desired folder.
 
 ## Usage
 
