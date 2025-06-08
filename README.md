@@ -100,8 +100,3 @@ Feel free to fork this repository and submit pull requests to improve the script
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Thanks to Python's pathlib library for making file operations easier
-- Inspired by the need to keep downloads folders organized
